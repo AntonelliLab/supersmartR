@@ -10,6 +10,8 @@ The main goals of `supersmartR` are to provide independent R packages that can b
 * Greater usage
 * Less code duplication
 
+## <img src="supersmart%20vs%20supersmartr.png" height="450" align="middle"/>
+
 ## Modules
 
 ### `phylotaR` <img src="https://raw.githubusercontent.com/ropensci/phylotaR/master/logo.png" height="150" align="right"/>
