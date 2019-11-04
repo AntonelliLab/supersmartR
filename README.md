@@ -14,6 +14,8 @@ The main goals of `supersmartR` are to provide independent R packages that can b
 
 ## Available modules
 
+> *How do these modules interact?* Check out the [supersmartR-workshop](https://github.com/AntonelliLab/supersmartR-workshop/) page to learn how these modules can be used to construct reproducible workflows for constructing phylogenetic trees all from within R.
+
 ### `phylotaR` <img src="https://raw.githubusercontent.com/ropensci/phylotaR/master/logo.png" height="150" align="right"/>
 
 The `phylotaR` package provides a pipeline that uses an alignment search tool to identify orthologous sequences without the need for gene name matching. For a given parental taxonomic group, the pipeline will search through available sequences hosted on GenBank and identify orthologous sequence clusters. A user is then able to survey the identified clusters and select the ones which best suit their phylogenetic analysis needs, e.g. by selecting the clusters that maximise the number of taxonomic groups.
